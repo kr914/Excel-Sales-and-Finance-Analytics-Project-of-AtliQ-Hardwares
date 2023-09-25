@@ -1,2 +1,3 @@
 # Excel_-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares
-[Readme file pdf.docx](https://github.com/kr914/Excel_-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/files/12716179/Readme.file.pdf.docx)
+[readme.Md Excel project pdf.pdf](https://github.com/kr914/Excel_-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/files/12717725/readme.Md.Excel.project.pdf.pdf)
+
